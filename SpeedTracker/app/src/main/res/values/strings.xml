@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpeedTracker</string>
+    <string name="Button_Toggle_Tracker">Toggle Speed Tracker</string>
+    <string name="OFF_text">OFF</string>
+    <string name="Change_Speed_limit_Button">Change Speed Limit</string>
+    <string name="View_surpasses_Button">View Speed Limit Surpasses</string>
+    <string name="set_speed_limit_button">Set Speed Limit</string>
+    <string name="surpasses_recycle_layout_border">______________________________________________________________________________</string>
+    <string name="highest_speed">Highest Speed</string>
+    <string name="oldest">Oldest</string>
+    <string name="newest">Newest</string>
+    <string name="title_activity_surpass">SurpassActivity</string>
+
+</resources>
